@@ -3,7 +3,7 @@ Build your own Bluetooth-controlled RC car using Arduino Uno, the HC-05 Bluetoot
 
 
 Pictures:<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6e2e4967-89bf-4062-9be4-ac188475f7b9" />
-<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/45d4c3cb-c610-443b-8d2b-1e3b8ad87607" />
+
 
 
 
