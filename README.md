@@ -1,6 +1,12 @@
 DIY Bluetooth Controlled RC Car using Arduino, HC-05, L298N & Lithium Battery
 Build your own Bluetooth-controlled RC car using Arduino Uno, the HC-05 Bluetooth module, L298N motor driver, and a lithium-ion battery. Control it wirelessly with your smartphone and learn core embedded and robotics skills!
 
+
+Pictures:<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6e2e4967-89bf-4062-9be4-ac188475f7b9" />
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/45d4c3cb-c610-443b-8d2b-1e3b8ad87607" />
+
+
+
 Project description
 
 Learn how to make a DIY Bluetooth RC car using Arduino Uno, HC-05 Bluetooth module, L298N motor driver, and a Lithium-ion battery. This wireless car project can be controlled via an Android smartphone using a custom Bluetooth controller app. It's a beginner-friendly Arduino robotics project, ideal for anyone interested in IoT, embedded systems, or Arduino car projects. 
@@ -17,7 +23,8 @@ Lithium-ion Battery (3.7V or 7.4V)
 Chassis with motors and wheels 
 Android Bluetooth controller app 
 
-Circuit Diagram:<img width="2000" height="1414" alt="c4de46ca-a991-4387-8546-af0cc0921512" src="https://github.com/user-attachments/assets/556f62be-f7a1-44a3-8368-a204099ee851" />
+Circuit Diagram:<img width="253" height="199" alt="image" src="https://github.com/user-attachments/assets/2f7ed0d1-f7e8-49ca-b7ef-88d1d0131f46" />
+
 
 
 Code: (above text file)
