@@ -22,3 +22,6 @@ Circuit Diagram:<img width="2000" height="1414" alt="c4de46ca-a991-4387-8546-af0
 
 Code: (above text file)
 You need to adjust the pins of the motor according to your car
+
+After that You need to connect your car with the bluetooth app
+app link: https://bluetooth-rc-car.en.softonic.com/android?ex=RAMP-3864.5&rex=true
